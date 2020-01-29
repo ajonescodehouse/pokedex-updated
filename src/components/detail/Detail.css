@@ -1,0 +1,14 @@
+.topBoxWrapper, .abilityContainer, .stats {
+    margin: 20px auto;
+    width: 100%;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px solid gray;
+    padding: 22px;
+}
+
+.statBar, .ability, .p-weight {
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
